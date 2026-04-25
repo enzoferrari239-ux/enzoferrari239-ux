@@ -1,3 +1,7 @@
+<h2>Sobre mim.</h2>
+<p>Aprendendo mais linguagens.</p>
+<p>Faço sites em html.</p>
+<p>Faço programas básicos.</p>
 
 
 <h2>Aprendizados</h2>
