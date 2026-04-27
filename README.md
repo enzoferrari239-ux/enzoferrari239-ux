@@ -8,6 +8,9 @@ Sou o Enzo.<br>Sou programador iniciante.<br>Faço sites e programas básicos.<b
 ![](https://github-readme-stats.shion.dev/api?username=enzoferrari239-ux&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=enzoferrari239-ux&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=enzoferrari239-ux&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="200" src="https://i.pinimg.com/originals/eb/b7/55/ebb755c578750674e0bb3b49c498caf3.gif"  />
+
+###
 
 ## 🏆 Troféus github
 ![](https://github-profile-trophy.vercel.app/?username=enzoferrari239-ux&theme=merko&no-frame=false&no-bg=false&margin-w=4)
